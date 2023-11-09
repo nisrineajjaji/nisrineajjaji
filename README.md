@@ -1,7 +1,6 @@
 - 👋 Hi, I’m nisrine
--  👀 I’m interested in ...
-- 🌱 I’m currently learning .programming..
-- 💞️ I’m looking to collaborate on ...
+-  👀 I’m interested in learning new languages and exploring different cultures
+- 🌱 I’m currently learning .
 - 📫 How to reach me ...
 
 <!---
